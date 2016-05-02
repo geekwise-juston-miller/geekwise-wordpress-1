@@ -36,6 +36,13 @@ h2,h3{
     
 }
 .title{
+     text-align: left;
+     text-transform: uppercase;
+    color: white;
+}
+.divider{
+    text-align: left;
+     text-transform: uppercase;
     color: white;
 }
 .site-info{display: none;
@@ -46,3 +53,12 @@ h2,h3{
     
     background-color: #7A1501;
 }
+/*.info-box{
+    
+    float: left;
+    display: block;
+    width: calc(100%/3);
+}
+*/
+
+
