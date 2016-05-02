@@ -13,5 +13,36 @@
 */
 
 body{
-    background-color: red;
+    font-family: franchise;
+    background-color: #7A1501;
+}
+.entry-title{
+    display: none;
+}
+
+.main-navigation{
+    text-align: center;
+    text-transform: uppercase;
+    
+}
+
+.main-navigation  a:hover{
+    background-color: #f9da0c;
+    color:black;
+}
+h2,h3{
+    color: white;
+    background-color: #7A1501;
+    
+}
+.title{
+    color: white;
+}
+.site-info{display: none;
+    
+}
+
+#primary{
+    
+    background-color: #7A1501;
 }
