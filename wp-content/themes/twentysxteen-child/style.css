@@ -43,10 +43,8 @@ li{
     color: white;
     text-transform: uppercase;
 }
-#geekwise{
-        position: relative;
-    left: 35px;
-background-color: white;
+.geekwise{
+   width: 100%;
     text-align: center;
 }
 #menu-item-54{
@@ -63,6 +61,9 @@ background-color: white;
 #main-page{
         margin: 5px;
     text-align: center;
+}
+.content{
+    background-color: #7a1501;
 }
 h2{
       
