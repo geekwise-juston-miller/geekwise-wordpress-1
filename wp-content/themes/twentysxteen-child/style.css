@@ -18,12 +18,15 @@ body{
     padding:0;
     background-color: #7A1501;
 }
+.header-image{
+    margin-top: -66px;
+}
 .entry-title{
     display: none;
 }
 
 .main-navigation{
-    text-align: center;
+    
     text-transform: uppercase;
     
 }
@@ -47,15 +50,14 @@ div> .divider{
      text-transform: uppercase;
     color: white;
 }
-p{
-    text-align-last: center;
-}
+
 .site-info{display: none;
     
 }
-
-.logo {
-    background-color: #7a1501;
+.main-page{
+    text-align: center;
 }
 
-
+.red {
+    background-color: #7a1501;
+}
