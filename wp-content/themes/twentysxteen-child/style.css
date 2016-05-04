@@ -22,7 +22,7 @@ body{
     margin-top: -66px;
 }    
 .site-header{
-        padding: 0;
+    padding: 0;
     margin-right: 25%;
 }
 .entry-title{
@@ -34,7 +34,20 @@ body{
     text-transform: uppercase;
     
 }
-
+li{
+    font-weight: bold;
+    font-weight: 700;
+    font-size: .9em;
+    
+    font-family: 'Lato', sans-serif;
+}
+#menu-item-54{
+   
+    color: #7a1501;
+    display: block;
+    background-color: #f9da0c;
+    text-align: center;
+}
 .main-navigation  a:hover{
     background-color: #f9da0c;
     color:black;
