@@ -67,6 +67,9 @@ li{
     color: white;
     
 }
+#link{
+    text-transform: uppercase;
+}
 .geekwise{
    width: 100%;
     text-align: center;
