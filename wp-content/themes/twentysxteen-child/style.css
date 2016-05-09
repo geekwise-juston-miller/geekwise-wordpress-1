@@ -18,6 +18,14 @@ body{
     color:  black;
     background-color: #7A1501;
 }
+/* hide the header image on home page*/
+
+.page-id-4 #masthead img { 
+    display:none
+    
+}
+
+/* header css*/
 .header-image{
     margin-top: -66px;
 }    
