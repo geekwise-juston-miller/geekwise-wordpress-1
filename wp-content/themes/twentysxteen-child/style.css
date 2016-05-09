@@ -15,6 +15,7 @@
 body{
     margin: 0;
     padding:0;
+    color:  black;
     background-color: #7A1501;
 }
 .header-image{
@@ -23,6 +24,12 @@ body{
 .site-header{
     padding: 0;
     margin-right: 25%;
+}
+.entry-content{
+     background-color: #7A1501;
+}
+.section_1{
+    background-color: white;
 }
 .entry-title{
     display: none;
@@ -37,11 +44,12 @@ li{
     font-weight: bold;
     font-weight: 700;
     font-size: .9em;
-    font-family: 'Lato', sans-serif;
+    list-style: none;
+    
 }
 .content-column {
     color: white;
-    text-transform: uppercase;
+    
 }
 .geekwise{
    width: 100%;
@@ -120,4 +128,12 @@ div> .divider{
 }
 #lines{
     border-right:none;
+}
+
+.table ,th, td {
+     table-layout: auto;
+    border-width: 0 0px 1px 0;
+}
+.course-columns{
+    background-color: white;
 }
