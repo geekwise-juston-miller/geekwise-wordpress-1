@@ -1,0 +1,15 @@
+/* fonts | geekwise academy */
+@font-face{
+    font-family: "ciria";
+    src: url("../fonts/ciria.woff");
+}
+
+@font-face{
+    font-family: "franchise";
+    src: url("../fonts/franchise.woff");
+}
+
+@font-face{
+    font-family: "lato";
+    src: url("../fonts/lato.woff2");
+}

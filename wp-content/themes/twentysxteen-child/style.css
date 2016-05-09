@@ -11,8 +11,12 @@
  Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
  Text Domain:  twenty-sixteen-child
 */
+/*google font*/
+@import url(http://fonts.googleapis.com/css?family=Lato);
+@import url(http://fonts.woff.com/css?family=Ciria);
 
 body{
+    
     margin: 0;
     padding:0;
     color:  black;
@@ -49,10 +53,13 @@ body{
     
 }
 li{
+    padding: 0px 0px;
+    font-family: 'Lato';
     font-weight: bold;
-    font-weight: 700;
-    font-size: .9em;
-    list-style: none;
+    text-transform: uppercase;
+    margin: 0px;
+    position: relative;
+    z-index: 100;
     
 }
 .content-column {
@@ -64,11 +71,14 @@ li{
     text-align: center;
 }
 #menu-item-54{
-   
+        padding-bottom: 10px;
     color: #7a1501;
     display: block;
     background-color: #f9da0c;
     text-align: center;
+}
+#menu-item-54 a{
+    color: #7a1501;
 }
 .main-navigation  a:hover{
     background-color: #f9da0c;
@@ -83,8 +93,8 @@ li{
 }
 h2{
       
-     font-family: "franchise";
-    font-size: 2.0em;
+     font-family:"Franchise";
+    
     text-align: center;
     
     color: white;
