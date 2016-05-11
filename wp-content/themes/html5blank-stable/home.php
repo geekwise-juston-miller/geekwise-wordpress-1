@@ -29,7 +29,7 @@
                </div>
                <div class="links">
                    <p class="link_images">
-                      <a href="courses.html">
+                      <a href="/index.php?page_id=6">
                           <img src="http://i.imgur.com/zhhZQwz.png">
                           <span>
                               learn more
@@ -37,7 +37,7 @@
                       </a>
                    </p>
                    <p class="link_images">
-                      <a href="signup.html">
+                      <a href="/index.php?page_id=16">
                           <img src="http://i.imgur.com/eDO0L8b.png">
                           <span>
                               sign up
@@ -45,7 +45,7 @@
                       </a>
                    </p>
                    <p class="link_images">
-                      <a href="about.html">
+                      <a href="/index.php?page_id=18">
                           <img src="http://i.imgur.com/eYQIcmu.png">
                           <span>
                               why geekwise?

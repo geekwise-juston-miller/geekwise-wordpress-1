@@ -21,7 +21,7 @@
                <div class="info">
                 <div class="sign_up_div">
                     <p class="signup">
-                        <a href="signup.html">
+                        <a href="/index.php?page_id=16">
                             <span>
                                 sign up
                             </span>
@@ -71,7 +71,7 @@
                 </div>
                </div>
                <div id="last_line">
-                    <a href="signup.html">
+                    <a href="/index.php?page_id=16">
                        <p>
                            want to geekwise? sign-up today
                         </p>

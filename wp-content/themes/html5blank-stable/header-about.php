@@ -15,7 +15,7 @@
             <ul>
                <div class="icon_div">
                 <li id="icon">
-                    <a href="home.php">
+                    <a href="/index.php?p=4">
                         <img src="http://i.imgur.com/sCkxjbZ.png" id="icon_image">
                     </a>
                 </li>
@@ -26,42 +26,42 @@
                    <input type="checkbox" id="dropdown">
                <div class="nav_div" id="about_div_navbar">
                 <li>
-                    <a class="active" href="about.php">
+                    <a class="active" href="/index.php?page_id=18">
                         <span>
                             about
                         </span>
                     </a>
                 </li>
                 <li id="courses">
-                    <a href="courses.php">
+                     <a href="/index.php?page_id=6">
                         <span>
                             courses
                         </span>
                     </a>
                 </li>
                 <li id="workshops">
-                    <a href="workshops.php">
+                    <a href="/index.php?page_id=8">
                         <span>
                             workshops
                         </span>
                     </a>
                 </li>
                 <li id="cohort">
-                    <a href="cohort.php">
+                    <a href="/index.php?page_id=10">
                         <span>
                             cohort
                         </span>
                     </a>
                 </li>
                 <li id="team">
-                    <a href="team.php">
+                    <a href="/index.php?page_id=12">
                         <span>
                             team
                         </span>
                     </a>
                 </li>
                 <li id="contact">
-                    <a href="contact.php">
+                    <a href="/index.php?page_id=14">
                         <span>
                             contact
                         </span>

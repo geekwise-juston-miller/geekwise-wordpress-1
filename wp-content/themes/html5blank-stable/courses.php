@@ -379,7 +379,7 @@
     <footer class="workshops_footer">
         <div>
             <p>
-               <a href="signup.html">
+               <a href="/index.php?page_id=16">
                    <span>
                        SEATING IS LIMITED, SIGN UP TODAY
                     </span>

@@ -35,49 +35,49 @@
         <nav id="navbar">
             <ul>
                 <li>
-                    <a href="about.html">
+                    <a href="/index.php?page_id=18">
                         <span>
                             about
                         </span>
                     </a>
                 </li>
                 <li>
-                    <a href="courses.html">
+                    <a href="/index.php?page_id=6">
                         <span>
                             courses
                         </span>
                     </a>
                 </li>
                 <li>
-                    <a href="workshops.html">
+                    <a href="/index.php?page_id=8">
                         <span>
                             workshops
                         </span>
                     </a>
                 </li>
                 <li>
-                    <a href="cohort.html">
+                   <a href="/index.php?page_id=10">
                         <span>
                             cohort
                         </span>
                     </a>
                 </li>
                 <li>
-                    <a id="yellow" href="signup.html">
+                    <a id="yellow" href="/index.php?page_id=16">
                         <span>
                             signup
                         </span>
                     </a>
                 </li>
                 <li>
-                    <a href="team.html">
+                     <a href="/index.php?page_id=12">
                         <span>
                             team
                         </span>
                     </a>
                 </li>
                 <li>
-                    <a href="contact.html">
+                    <a  href="/index.php?page_id=14">
                         <span>
                             contact
                         </span>

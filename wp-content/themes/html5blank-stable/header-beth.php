@@ -1,46 +1,46 @@
 <!DOCTYPE html>
-<html lang="en" class="cohort_html">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1"/>
     <link rel="icon" type="image/png" href="http://i.imgur.com/CmBvoI4.png"/>
-   <link href="<?php echo get_template_directory_uri(); ?>/about.css" rel="stylesheet">
-    <title>Geekwise Academy | Cohort</title>
+    <link href="<?php echo get_template_directory_uri(); ?>/about.css" rel="stylesheet">
+    <title>Geekwise Academy | Beth </title>
 </head>
-<body class="team_body">
+
        
-       <!-- this div and header section copied from team page -->
+<!-- added sign up link. putting it above the header tag was the easiest to control positioning for this page -->
        
         <div id="margin_top">
-            <a class="signup_link team_signup"  id="cohort_signup_link" href="/index.php?page_id=16">
-                <span>
-                    sign up
-                </span>
-            </a>
+            <a class="signup_link team_signup" href="/index.php?page_id=16"><span>sign up</span></a>
         </div>
     <header id="contact_header">
-        <nav id="cohort_nav">
-            <ul>
+               
+<!-- start of nav bar menu for all website pages -->
+       
+        <nav>
+            <ul>              
                <div class="icon_div">
                 <li id="icon">
-                    <a href="/index.php?p=4">
-                        <img src="http://i.imgur.com/sCkxjbZ.png" id="icon_image">
-                    </a>
+                
+<!-- this is the geekwise icon on the header -->
+                   
+                    <img src="http://i.imgur.com/sCkxjbZ.png" id="icon_image">
                 </li>
                </div>
                
                <!--dropdown-->
                
                <label for="dropdown">
-                <img src="images/menu.svg" id="bars">
+                    <img src="images/menu.svg" id="bars">
                </label>
                <input type="checkbox" id="dropdown">
                
                <!--end dropdowh-->
-               
+              
                <div class="nav_div team_nav_div">
                 <li class="about">
-                     <a href="/index.php?page_id=18">
+                    <a href="/index.php?page_id=18">
                         <span>
                             about
                         </span>
@@ -61,14 +61,14 @@
                     </a>
                 </li>
                 <li class="cohort">
-                    <a class="active" href="/index.php?page_id=10">
+                     <a href="/index.php?page_id=10">
                         <span>
                             cohort
                         </span>
                     </a>
                 </li>
                 <li class="team">
-                    <a href="/index.php?page_id=12">
+                    <a class="active" href="/index.php?page_id=12">
                         <span>
                             team
                         </span>
@@ -81,6 +81,9 @@
                         </span>
                     </a>
                 </li>
+                
+        <!-- added signup link to nav bar because there was none in the landing-page -->
+               
                 <li class="added_signup">
                     <a href="/index.php?page_id=16">
                         <span>
@@ -92,4 +95,3 @@
             </ul>
         </nav>       
     </header> 
-    

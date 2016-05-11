@@ -12,7 +12,7 @@
 <!-- added sign up link. putting it above the header tag was the easiest to control positioning for this page -->
        
         <div id="margin_top">
-            <a class="signup_link team_signup" href="signup.html"><span>sign up</span></a>
+            <a class="signup_link team_signup" href="/index.php?page_id=16"><span>sign up</span></a>
         </div>
     <header id="contact_header">
                
@@ -25,7 +25,7 @@
                 
 <!-- this is the geekwise icon on the header -->
                    
-                    <a href="index.html">
+                    <a href="/index.php?p=4">
                         <img src="http://i.imgur.com/sCkxjbZ.png" id="icon_image">
                     </a>
                 </li>
@@ -42,42 +42,42 @@
               
                <div class="nav_div team_nav_div">
                 <li class="about">
-                    <a href="about.html">
+                    <a href="/index.php?page_id=18">
                         <span>
                             about
                         </span>
                     </a>
                 </li>
                 <li class="courses">
-                    <a href="courses.html">
+                    <a href="/index.php?page_id=6">
                         <span>
                             courses
                         </span>
                     </a>
                 </li>
                 <li class="workshops">
-                    <a href="workshops.html">
+                    <a href="/index.php?page_id=8">
                         <span>
                             workshops
                         </span>
                     </a>
                 </li>
                 <li class="cohort">
-                    <a href="cohort.html">
+                    <a href="/index.php?page_id=10">
                         <span>
                             cohort
                         </span>
                     </a>
                 </li>
                 <li class="team">
-                    <a class="active" href="team.html">
+                    <a class="active" href="/index.php?page_id=12">
                         <span>
                             team
                         </span>
                     </a>
                 </li>
                 <li class="contact">
-                    <a href="contact.html">
+                    <a href="/index.php?page_id=14">
                         <span>
                             contact
                         </span>
@@ -87,7 +87,7 @@
         <!-- added signup link to nav bar because there was none in the landing-page -->
                
                 <li class="added_signup">
-                    <a href="signup.html">
+                   <a href="/index.php?page_id=16">
                         <span>
                             sign up
                         </span>

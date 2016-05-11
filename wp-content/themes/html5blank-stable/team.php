@@ -28,7 +28,7 @@
                 </div>
                 <div id="pictures_div">
                    <p class="pictures">
-                        <a href="jake.html" class="team_images_link">
+                        <a href="/index.php?page_id=214" class="team_images_link">
                            <img src="http://i.imgur.com/98hK191.jpg">
                            <span class="span_font">
                             jake a soberal
@@ -37,7 +37,7 @@
                         
                    </p>
                    <p class="pictures" id="irma_olguin">
-                        <a href="irma.html" class="team_images_link">
+                        <a href="/index.php?page_id=216" class="team_images_link">
                           <img src="http://i.imgur.com/W3IGHsS.jpg">
                            <span class="span_font">
                             irma l. olguin, jr.
@@ -46,7 +46,7 @@
                         
                    </p>
                    <p class="pictures" id="beth_mily">
-                        <a href="beth.html" class="team_images_link">
+                        <a href="/index.php?page_id=218" class="team_images_link">
                           <img src="http://i.imgur.com/iRHEDAk.jpg">
                           <span class="span_font">
                             beth e. mily
@@ -55,7 +55,7 @@
                         
                    </p>
                    <p class="pictures" id="terry_solis">
-                        <a href="terry.html" class="team_images_link">
+                        <a href="/index.php?page_id=220" class="team_images_link">
                             <img src="http://i.imgur.com/5Hjun1e.jpg">
                             <span class="span_font">
                            terry i. solis
