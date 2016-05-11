@@ -25,7 +25,9 @@
                 
 <!-- this is the geekwise icon on the header -->
                    
-                    <img src="http://i.imgur.com/sCkxjbZ.png" id="icon_image">
+                    <a href="/index.php?p=4">
+                        <img src="http://i.imgur.com/sCkxjbZ.png" id="icon_image">
+                    </a>
                 </li>
                </div>
                

@@ -44,7 +44,7 @@
                         
                    </p>
                    <p class="pictures" id="beth_mily">
-                        <a href="/index.php?page_id=218" class="team_images_link">
+                       <a href="/index.php?page_id=218"class="team_images_link">
                           <img src="http://i.imgur.com/iRHEDAk.jpg">
                           <span class="span_font">
                            
