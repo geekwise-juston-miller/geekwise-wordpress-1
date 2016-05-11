@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1"/>
     <link rel="icon" type="image/png" href="http://i.imgur.com/CmBvoI4.png"/>
     <link href="<?php echo get_template_directory_uri(); ?>/about.css" rel="stylesheet">
-    <title>Geekwise Academy | Landing Page</title>
+    <title>Geekwise Academy | Team</title>
 </head>
 
        

@@ -10,16 +10,16 @@
                  <img src="http://i.imgur.com/9rpUPiI.png" id="bitwise"> 
               </p>
               <p class="contact_info dif_color">
-                  2210 San Joaquin Street
+                  
               </p>
               <p class="contact_info dif_color">
-                  Fresno, California 93721
+                  
               </p>
               <p class="contact_info">
-                  <a href="#">559.472.8786</a>
+                  <a href="#"></a>
               </p>
               <p class="contact_info email">
-                  <a href="#">tsolis@bitwiseindustries.com</a> 
+                  <a href="#"></a> 
               </p>
              </div>
            </section>

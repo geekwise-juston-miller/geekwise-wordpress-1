@@ -13,11 +13,9 @@
     <footer>
                <div class="fluff">
                 <h3 id="h3_1">
-                    fast. no fluff.
                 </h3>
                     
                 <h3 id="h3_2">
-                    we teach technology skills that you can use to make money 
                 </h3>
                 <div id="divider">
                 
@@ -32,7 +30,7 @@
                       <a href="/index.php?page_id=6">
                           <img src="http://i.imgur.com/zhhZQwz.png">
                           <span>
-                              learn more
+                              
                           </span>
                       </a>
                    </p>
@@ -40,7 +38,7 @@
                       <a href="/index.php?page_id=16">
                           <img src="http://i.imgur.com/eDO0L8b.png">
                           <span>
-                              sign up
+                              
                           </span>
                       </a>
                    </p>
@@ -48,7 +46,7 @@
                       <a href="/index.php?page_id=18">
                           <img src="http://i.imgur.com/eYQIcmu.png">
                           <span>
-                              why geekwise?
+                              
                           </span>
                       </a>
                    </p>

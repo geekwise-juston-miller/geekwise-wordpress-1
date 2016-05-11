@@ -11,7 +11,6 @@
             </div>
             <div id="the_team_div">
                 <p id="the_team">
-                    the team
                 </p>
             </div>
           </div>
@@ -23,15 +22,14 @@
             <div class="info">
                 <div class="team_text" id="team_belief">
                     <p id="team_paragraph">
-                        Geekwise Academy was founded on the belief that we, as in the world, can do a whole lot better than we presently are in educating technologists. To accomplish that, we needed to assemble a team of people who know what they’re talking about. Here’s what we came up with.
-                    </p>
+                   </p>
                 </div>
                 <div id="pictures_div">
                    <p class="pictures">
                         <a href="/index.php?page_id=214" class="team_images_link">
                            <img src="http://i.imgur.com/98hK191.jpg">
                            <span class="span_font">
-                            jake a soberal
+                            
                            </span>    
                         </a>
                         
@@ -40,7 +38,7 @@
                         <a href="/index.php?page_id=216" class="team_images_link">
                           <img src="http://i.imgur.com/W3IGHsS.jpg">
                            <span class="span_font">
-                            irma l. olguin, jr.
+                            
                            </span>
                         </a>
                         
@@ -49,7 +47,7 @@
                         <a href="/index.php?page_id=218" class="team_images_link">
                           <img src="http://i.imgur.com/iRHEDAk.jpg">
                           <span class="span_font">
-                            beth e. mily
+                           
                           </span>
                         </a>
                         
@@ -58,7 +56,7 @@
                         <a href="/index.php?page_id=220" class="team_images_link">
                             <img src="http://i.imgur.com/5Hjun1e.jpg">
                             <span class="span_font">
-                           terry i. solis
+                          
                             </span>
                         </a>
                        

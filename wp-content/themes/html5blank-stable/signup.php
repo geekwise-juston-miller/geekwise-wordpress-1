@@ -9,7 +9,7 @@
           <div>
             <a id="signup_signup" href="#">
                 <span>
-                    sign up
+                    
                 </span>
             </a>
           </div>
@@ -17,55 +17,55 @@
            <ul>
                <li id="selection_and_enrollment">
                    <p class="font_bold data">
-                       Course Selection 
+                       
                    </p>
                    <p class="font_bold data">
-                       & Enrollment
+                       
                    </p>
                </li>
                <li>
                    <p class="data padding sign_up_font_family">
-                      Database Design - Starts April  4, 2016
+                      
                    </p>
                    <p class="days padding">
-                       Monday & Wednesday 
+                        
                    </p>
                </li>
                <li>
                    <p class="padding sign_up_font_family">
-                      Intro to AngularJS - Starts April 5, 2016 
+                       
                    </p>
                    <p class="days padding">
-                       Tuesday & Thursday 
+                       
                    </p>
                </li>
                <li>
                    <p class="padding sign_up_font_family line_through">
-                      <span class='sign_up_sold_out'>sold out&#33;</span>Javascript for Beginners - Starts April 4, 2016 
+                      <span class='sign_up_sold_out'>&#33;</span>
                    </p>
                    <p class="days padding">
-                       Monday & Wednesday
+                       
                    </p>
                </li>
                <li>
                    <p class="padding sign_up_font_family" >
-                      Mobile-First Websites - Starts April 5, 2016 
+                     
                    </p>
                    <p class="days padding">
-                       Tuesday & Thursday 
+                       
                    </p>
                </li>
                <li>
                    <p class="padding sign_up_font_family line_through">
-                      <span class='sign_up_sold_out'>sold out&#33;</span>Websites for Beginners - Starts April 4, 2016 
+                      <span class='sign_up_sold_out'>&#33;</span>
                    </p>
                    <p class="days padding">
-                       Monday & Wednesday 
+                       
                    </p>  
                </li>
                <li>
                     <p class="padding">
-                       *Refunds available only for life-events. 
+                       
                     </p>
                </li>
            </ul>
